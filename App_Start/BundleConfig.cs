@@ -5,7 +5,7 @@ namespace WebApplicationdemo
 {
     public class BundleConfig
     {
-        //hello chck 
+        //hello chck  disko
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
